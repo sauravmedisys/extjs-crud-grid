@@ -1,9 +1,6 @@
 #################################################
-#			eclips settings						#
+#	eclips settings				#
 #################################################
-.classpath
-.project
-.settings/
 build/
 #################################################
 # modified By Saurav "saurav@medisys.com.sa" 	#
